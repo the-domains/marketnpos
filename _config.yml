@@ -1,7 +1,7 @@
 name: marketnpos
 favicon: null
-layout_spectrum: 0.7689152474049479
-typography_spectrum: 0.5469852031674236
+layout_spectrum: 1
+typography_spectrum: 0.65897
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.2936039969790727
-  lightness: 0.6568107637576759
-  saturation: 0.17243963130749762
-  rhythmicContrast: 0.26624102517962456
+  brandStrength: 0.1875
+  lightness: 0.625
+  saturation: 0.0625
+  rhythmicContrast: 0.5
 purpose: []
